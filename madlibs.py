@@ -15,7 +15,7 @@ food1 = input("Enter a food: ")
 food2 = input("Enter a another food: ")
 
 print("Pizza was invented by a " + adj1 + " " + nationality + " chef named " + name +
-      ". To make a pizza, you need to take a lump of " + noun + ", and make a thin round " + adj2 + " " +
+      ". To make a pizza, you need to take a lump of " + noun1 + ", and make a thin round " + adj2 + " " +
       noun2 + ". Then you cover it with " + adj3 + "sauce, " + adj4 + " cheese, and fresh chopped " + 
       pluralnoun + ". Next you have to bake it in a very hot " + noun3 + ". When it is done, cut it into " +
       number1 + " " + shape + ". Some people like " + food1 + " pizza the best, but my favorite is the " +
